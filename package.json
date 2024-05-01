@@ -1,7 +1,7 @@
 {
   "name": "dapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "final year project",
   "main": "index.js",
   "engines": {
     "node": ">=18.12 <21"
